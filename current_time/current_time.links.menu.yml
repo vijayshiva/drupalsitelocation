@@ -1,0 +1,7 @@
+current_time.sitelocation_form:
+  title: 'SiteLocation'
+  route_name: current_time.sitelocation_form
+  description: 'A description for the Sitelocation'
+  parent: system.admin_config_system
+  weight: 99
+

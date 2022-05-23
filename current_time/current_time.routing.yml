@@ -1,0 +1,11 @@
+
+current_time.sitelocation_form:
+  path: '/admin/config/current_time/settings'
+  defaults:
+    _form: '\Drupal\current_time\Form\SiteLocation'
+    _title: 'SiteLocation'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+
